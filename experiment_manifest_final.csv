@@ -1,0 +1,220 @@
+﻿source_id,material_group,filename,source_path,width,height,mode,channels,thickness_mm,magnification,sha256,duplicate_count,duplicate_groups,cross_group_duplicate,use_for_experiment,exclude_reason,specimen_group,split
+src_0003,1,Wytop I x500 12mm-1.jpg,1\Wytop I x500 12mm-1.jpg,2560,1920,RGB,3,12,500,aea0878ae3cb9cc1f1964cf0133d9b62c5339fdc1a501ed648f3c52551749efd,1,1,False,True,,G01_T12,test
+src_0004,1,Wytop I x500 12mm-2.jpg,1\Wytop I x500 12mm-2.jpg,2560,1920,RGB,3,12,500,f0b41c6a5ed27493115061f8c27879145532b84490b714c181b7b369be563b63,1,1,False,True,,G01_T12,test
+src_0005,1,Wytop I x500 12mm-3.jpg,1\Wytop I x500 12mm-3.jpg,2560,1920,RGB,3,12,500,1a9ca3e1aed8055c57103e2d40b9805d8426e25f42f82eab67ae1fe3a3654515,1,1,False,True,,G01_T12,test
+src_0006,1,Wytop I x500 12mm-4.jpg,1\Wytop I x500 12mm-4.jpg,2560,1920,RGB,3,12,500,0d037b0c0413864b579a9758d0ce197de276a5fc7abfda4e8f26bb9fb7c20622,1,1,False,True,,G01_T12,test
+src_0007,1,Wytop I x500 12mm-5.jpg,1\Wytop I x500 12mm-5.jpg,2560,1920,RGB,3,12,500,8ed5f863993ab767de44a8bb19e029520aea161a8c9dcfd504c0d2210422b6b2,1,1,False,True,,G01_T12,test
+src_0008,1,Wytop I x500 24mm-1.jpg,1\Wytop I x500 24mm-1.jpg,2560,1920,RGB,3,24,500,78a2e8abf942f437fcb8c0b10f55fd2b081098fe56e4a35d87c960fc8bd8c87e,1,1,False,True,,G01_T24,validation
+src_0009,1,Wytop I x500 24mm-2.jpg,1\Wytop I x500 24mm-2.jpg,2560,1920,RGB,3,24,500,7b2776184de528c6d0700705b0b76f00711d8a344fe00898bdb7d0161645afed,1,1,False,True,,G01_T24,validation
+src_0010,1,Wytop I x500 24mm-3.jpg,1\Wytop I x500 24mm-3.jpg,2560,1920,RGB,3,24,500,04c9539aa8f4a7fcdc768e74813e7dc4bba212a331ccc0ca13603cb3c6a68ac3,1,1,False,True,,G01_T24,validation
+src_0011,1,Wytop I x500 24mm-4.jpg,1\Wytop I x500 24mm-4.jpg,2560,1920,RGB,3,24,500,019d332ba1986bbea084d56fcd81da23ef6b59595b67245987926c622b7d7d53,1,1,False,True,,G01_T24,validation
+src_0012,1,Wytop I x500 24mm-5.jpg,1\Wytop I x500 24mm-5.jpg,2560,1920,RGB,3,24,500,de069442a13a5ec095e42cf16e3d4cf570980137d45efd8bf48f306651e29911,1,1,False,True,,G01_T24,validation
+src_0013,1,Wytop I x500 24mm-6.jpg,1\Wytop I x500 24mm-6.jpg,2560,1920,RGB,3,24,500,cd96e95556e982ad94b517665d2499b834f25ef8ca37089df341f907652163cb,1,1,False,True,,G01_T24,validation
+src_0014,1,Wytop I x500 3mm-1.jpg,1\Wytop I x500 3mm-1.jpg,2560,1920,RGB,3,3,500,54af1970713aeb24b7e028551efbb514c86c3cc1b370e5bf51d708da4e447bc3,1,1,False,True,,G01_T03,train
+src_0015,1,Wytop I x500 3mm-2.jpg,1\Wytop I x500 3mm-2.jpg,2560,1920,RGB,3,3,500,0ed3b7ec15f2ac7f9505c09fa4826753cfdbd3910caa81f1f278ad1d3e3f9062,1,1,False,True,,G01_T03,train
+src_0016,1,Wytop I x500 3mm-3.jpg,1\Wytop I x500 3mm-3.jpg,2560,1920,RGB,3,3,500,893bc6830cfbb9a957a1b1a4093ce123e8599827f4f995a4236c7664b5bbf58d,1,1,False,True,,G01_T03,train
+src_0017,1,Wytop I x500 3mm-4.jpg,1\Wytop I x500 3mm-4.jpg,2560,1920,RGB,3,3,500,ee7954c3b4a589866153a7195d1fe0d38643d441320eb29c4cd3484dfaaf6c02,1,1,False,True,,G01_T03,train
+src_0018,1,Wytop I x500 3mm-5.jpg,1\Wytop I x500 3mm-5.jpg,2560,1920,RGB,3,3,500,b8221b751832f39a79e1a8de865b710b4dd097678738200aaab5efa84a54f1df,1,1,False,True,,G01_T03,train
+src_0019,1,Wytop I x500 6mm-1.jpg,1\Wytop I x500 6mm-1.jpg,2560,1920,RGB,3,6,500,fe8152fac26e5468648fff350ce83ae983b7e2a5115f71a6067bf7e72b4602c1,1,1,False,True,,G01_T06,train
+src_0020,1,Wytop I x500 6mm-2.jpg,1\Wytop I x500 6mm-2.jpg,2560,1920,RGB,3,6,500,a34f200bd6e03d0bab2927ebb988a388555a5f23ad23f4e8a9fd7a7758383f2a,1,1,False,True,,G01_T06,train
+src_0021,1,Wytop I x500 6mm-3.jpg,1\Wytop I x500 6mm-3.jpg,2560,1920,RGB,3,6,500,0091477e377a84c84bde385fc9ef6bc72b5b7160b4c896a31c08373afec01848,1,1,False,True,,G01_T06,train
+src_0022,1,Wytop I x500 6mm-4.jpg,1\Wytop I x500 6mm-4.jpg,2560,1920,RGB,3,6,500,27ee58da1c03d6e8e8206c260a720a5dd1b9b0933024b71e4e2606619af9b499,1,1,False,True,,G01_T06,train
+src_0023,2,Wytop II x500 12 mm- 11.jpg,2\Wytop II x500 12 mm- 11.jpg,2560,1920,RGB,3,12,500,4c9476fb8bc519119bfe472f53fe9f24c39865155fe975f860d4fca6a9e448d3,1,2,False,True,,G02_T12,train
+src_0024,2,Wytop II x500 12mm- 10.jpg,2\Wytop II x500 12mm- 10.jpg,2560,1920,RGB,3,12,500,0a17bc1c3b9f71887440ec3514e55c8c09acfc5bb2ebc8e1e3936fa4444fb3e1,1,2,False,True,,G02_T12,train
+src_0025,2,Wytop II x500 12mm- 12.jpg,2\Wytop II x500 12mm- 12.jpg,2560,1920,RGB,3,12,500,d61e37a56dca6e9de96c97e05f33491ff461f2bee119d9427a8e140d75c51cbc,1,2,False,True,,G02_T12,train
+src_0026,2,Wytop II x500 12mm- 13.jpg,2\Wytop II x500 12mm- 13.jpg,2560,1920,RGB,3,12,500,e8d71de01886173bbf108d843da869eeca41b6a03ca5d3d3a4a35df6d3ca1f12,1,2,False,True,,G02_T12,train
+src_0027,2,Wytop II x500 12mm-14.jpg,2\Wytop II x500 12mm-14.jpg,2560,1920,RGB,3,12,500,79e5fe5237d2920d5db7c3d301a74f4cb92c076a74541ba53667bd47470ab60c,1,2,False,True,,G02_T12,train
+src_0033,2,Wytop II x500 3mm - 10.jpg,2\Wytop II x500 3mm - 10.jpg,2560,1920,RGB,3,3,500,c4db67e9f5f8184dfc2ec63a18156fd61846a18e2f16e65ebf5e88830799dbf5,1,2,False,True,,G02_T03,train
+src_0034,2,Wytop II x500 3mm- 11.jpg,2\Wytop II x500 3mm- 11.jpg,2560,1920,RGB,3,3,500,7e81ec961e94606724e1d4093b045975853cdb2ec330505a0a33e4cfe2cbdc34,1,2,False,True,,G02_T03,train
+src_0035,2,Wytop II x500 3mm- 12.jpg,2\Wytop II x500 3mm- 12.jpg,2560,1920,RGB,3,3,500,e4b5d81bdae819b017ad508310a143ceac6f263d2c277e98dcde626291ef047c,1,2,False,True,,G02_T03,train
+src_0036,2,Wytop II x500 3mm- 13.jpg,2\Wytop II x500 3mm- 13.jpg,2560,1920,RGB,3,3,500,ba55941a7c491a0288717d0d56227db44082f2706c2d515a35c0de348b97c519,1,2,False,True,,G02_T03,train
+src_0037,2,Wytop II x500 3mm- 14.jpg,2\Wytop II x500 3mm- 14.jpg,2560,1920,RGB,3,3,500,80ea71706289661f05ca442fc5d52852afd45d46557e604057ab87e55b97d737,1,2,False,True,,G02_T03,train
+src_0038,2,Wytop II x500 3mm- 15.jpg,2\Wytop II x500 3mm- 15.jpg,2560,1920,RGB,3,3,500,1a30243ae38dd4b6ce046f2ac202e8b4b4597fdb964a05d7dc5c23c08571d5c0,1,2,False,True,,G02_T03,train
+src_0039,2,Wytop II x500 6mm- 10.jpg,2\Wytop II x500 6mm- 10.jpg,2560,1920,RGB,3,6,500,f96807cca5f2384ae635a9fa633ad265ce00e2af7fa0461601b5747ab2e330a2,1,2,False,True,,G02_T06,train
+src_0040,2,Wytop II x500 6mm- 11.jpg,2\Wytop II x500 6mm- 11.jpg,2560,1920,RGB,3,6,500,6a75414ec8759d23f1f15deac94cdcbbc3c4bd5b416a5e26c5e39b9d617d3b11,1,2,False,True,,G02_T06,train
+src_0041,2,Wytop II x500 6mm- 14.jpg,2\Wytop II x500 6mm- 14.jpg,2560,1920,RGB,3,6,500,8fd67eb9e70c9fe7ab97146153a37d1668b09c60dff30b2d2890fffe15144a8c,1,2,False,True,,G02_T06,train
+src_0042,2,Wytop II x500 6mm- 15.jpg,2\Wytop II x500 6mm- 15.jpg,2560,1920,RGB,3,6,500,c17295d5f4d8b518e3c3cbad6cb61312495c15f705a9ccbd0eea9b1d781186eb,1,2,False,True,,G02_T06,train
+src_0043,2,Wytop II x500 6mm-12.jpg,2\Wytop II x500 6mm-12.jpg,2560,1920,RGB,3,6,500,dd5d6916a1c466317ead2de726ba1ddb1e1720e0b467e9d4a50da650d0f08124,1,2,False,True,,G02_T06,train
+src_0044,2,Wytop II x500 6mm-13.jpg,2\Wytop II x500 6mm-13.jpg,2560,1920,RGB,3,6,500,4f65a36fee66abe2664152e7a11bb3536aa45e4ec42bea38e195dc0990bd52a9,1,2,False,True,,G02_T06,train
+src_0055,3,Wytop I x500 12mm-1.jpg,3\Wytop I x500 12mm-1.jpg,2560,1920,RGB,3,12,500,99427ee69ba7ff88cbbe69e0f5b0e8712582aa714ee7812637203167057448a7,1,3,False,True,,G03_T12,train
+src_0056,3,Wytop I x500 12mm-2.jpg,3\Wytop I x500 12mm-2.jpg,2560,1920,RGB,3,12,500,abe3dd8be29762ed5b020765dd3e35aa88d2bcbfc595aad9507e6a3661dacbee,1,3,False,True,,G03_T12,train
+src_0057,3,Wytop I x500 12mm-3.jpg,3\Wytop I x500 12mm-3.jpg,2560,1920,RGB,3,12,500,2ff0ab491b5660600c063ba9cf8eaea2de3d5a977d4f9afe342961e574587abc,1,3,False,True,,G03_T12,train
+src_0058,3,Wytop I x500 12mm-4.jpg,3\Wytop I x500 12mm-4.jpg,2560,1920,RGB,3,12,500,b6b34a261b1b25741353431ab13857ef9cbec9660c6e49afe0af2c3cf89f806e,1,3,False,True,,G03_T12,train
+src_0059,3,Wytop I x500 12mm-5.jpg,3\Wytop I x500 12mm-5.jpg,2560,1920,RGB,3,12,500,b2818d55cd3da6647571e8c8ae569b49a5a6a252aeebeb0555d952712f51dc62,1,3,False,True,,G03_T12,train
+src_0060,3,Wytop I x500 24mm-6.jpg,3\Wytop I x500 24mm-6.jpg,2560,1920,RGB,3,24,500,37b8e7e0b2e2209e30891b090009682370306ba06bee1d2780ee9cee643539dc,1,3,False,True,,G03_T24,test
+src_0061,3,Wytop I x500 24mm-7.jpg,3\Wytop I x500 24mm-7.jpg,2560,1920,RGB,3,24,500,39fec5a8cc119c6ab1acdf0442894e22231f9f1c03ca11636902529f928a5f7d,1,3,False,True,,G03_T24,test
+src_0062,3,Wytop I x500 24mm-8.jpg,3\Wytop I x500 24mm-8.jpg,2560,1920,RGB,3,24,500,242854937a32b645ede3aaa7902e009af3d9ee76fedd21c83f87bdbf5cfc8e63,1,3,False,True,,G03_T24,test
+src_0063,3,Wytop I x500 3mm- 2.jpg,3\Wytop I x500 3mm- 2.jpg,2560,1920,RGB,3,3,500,2ca3f6b8d54fb9a3aac0ed31bf52bc51f3e100011ee73277635cc815377e2670,1,3,False,True,,G03_T03,test
+src_0064,3,Wytop I x500 3mm- 3.jpg,3\Wytop I x500 3mm- 3.jpg,2560,1920,RGB,3,3,500,9d7fc255b5fa716990cc941864be8d41a2127f67320ba95d5b3cd697da45eefc,1,3,False,True,,G03_T03,test
+src_0065,3,Wytop I x500 3mm-4.jpg,3\Wytop I x500 3mm-4.jpg,2560,1920,RGB,3,3,500,4202ad9af41ee7d8281cb0598a8eb400a9b84d1f386b11662905c6905628b1ee,1,3,False,True,,G03_T03,test
+src_0066,3,Wytop I x500 6mm- 2.jpg,3\Wytop I x500 6mm- 2.jpg,2560,1920,RGB,3,6,500,c7ed9457939dda4e8ffde2e6fef6c291cdb4a7b1bd2d6785950ce969c5907ca4,1,3,False,True,,G03_T06,train
+src_0067,3,Wytop I x500 6mm-1.jpg,3\Wytop I x500 6mm-1.jpg,2560,1920,RGB,3,6,500,0fd86816b624e11a0dc3d088283bccd37e63bd562476b358a6ca0e10793a8c08,1,3,False,True,,G03_T06,train
+src_0068,3,Wytop I x500 6mm-3.jpg,3\Wytop I x500 6mm-3.jpg,2560,1920,RGB,3,6,500,e75e1782552904c7d7c38dc144c1a51a09ccd61aa45507e7640d260a6b9a9b36,1,3,False,True,,G03_T06,train
+src_0069,3,Wytop I x500 6mm-4.jpg,3\Wytop I x500 6mm-4.jpg,2560,1920,RGB,3,6,500,c696fc88ea5e3f12388cdab2c49f9a2224c8e6a10f2e4cb910df4b380c394270,1,3,False,True,,G03_T06,train
+src_0070,3,Wytop I x500 6mm-5.jpg,3\Wytop I x500 6mm-5.jpg,2560,1920,RGB,3,6,500,1861ec36be9a77b1a902a566f5052866bd1ff959ad57e25955b2dee7a4e1fe03,1,3,False,True,,G03_T06,train
+src_0079,4,Wytop II x500 12mm-1.jpg,4\Wytop II x500 12mm-1.jpg,2560,1920,RGB,3,12,500,67cf69be2a8160b20e05a0dbd9b850fe3ad6f27783d5278fd87ed72061dd14ce,1,4,False,True,,G04_T12,train
+src_0080,4,Wytop II x500 12mm-2.jpg,4\Wytop II x500 12mm-2.jpg,2560,1920,RGB,3,12,500,e26a298a81b2a00ff475fab054138844397ac7718aa5ba45dd4a7b4ca43c708f,1,4,False,True,,G04_T12,train
+src_0081,4,Wytop II x500 12mm-3.jpg,4\Wytop II x500 12mm-3.jpg,2560,1920,RGB,3,12,500,cbd4d5723e69de77d477f5da799cc6ec984f0954b1af6ef5c1454b1a031c4c66,1,4,False,True,,G04_T12,train
+src_0082,4,Wytop II x500 12mm-4.jpg,4\Wytop II x500 12mm-4.jpg,2560,1920,RGB,3,12,500,e308dbec0d4ba0207fd97cd219a0c3b89f3c2212537f782e5c74d2d343cbf7a8,1,4,False,True,,G04_T12,train
+src_0083,4,Wytop II x500 12mm-5.jpg,4\Wytop II x500 12mm-5.jpg,2560,1920,RGB,3,12,500,babfe6b82384f5de068baa2156c1250ad032c5d00c0d3e4e274219b764687a2b,1,4,False,True,,G04_T12,train
+src_0084,4,Wytop II x500 24mm-1.jpg,4\Wytop II x500 24mm-1.jpg,2560,1920,RGB,3,24,500,17cd88363631d1443b82d48d8bd22a77cb444d41c46b60195ce065cda62118e4,1,4,False,True,,G04_T24,test
+src_0085,4,Wytop II x500 24mm-2.jpg,4\Wytop II x500 24mm-2.jpg,2560,1920,RGB,3,24,500,1e5a8e39e0c06b104d1d46a52fdc1208f3d1387bf0161221aceea91b5a833898,1,4,False,True,,G04_T24,test
+src_0086,4,Wytop II x500 24mm-3.jpg,4\Wytop II x500 24mm-3.jpg,2560,1920,RGB,3,24,500,34d678be6ffbb1a6029234e3725647142e2d8680e6272912e7fe3b6d72d3017c,1,4,False,True,,G04_T24,test
+src_0087,4,Wytop II x500 24mm-4.jpg,4\Wytop II x500 24mm-4.jpg,2560,1920,RGB,3,24,500,249b504b36620b87f6e6726341d5fc4a270c594768ecf05efedc9b5b9d8c35c4,1,4,False,True,,G04_T24,test
+src_0088,4,Wytop II x500 24mm-5.jpg,4\Wytop II x500 24mm-5.jpg,2560,1920,RGB,3,24,500,d39077bdba51d7fb9f61c36efa253f52725a14841390cdf14f2d0121b48a16c1,1,4,False,True,,G04_T24,test
+src_0089,4,Wytop II x500 3mm-1.jpg,4\Wytop II x500 3mm-1.jpg,2560,1920,RGB,3,3,500,08471a175085f56ec39498d1cb6c757ca7a72d9a38efac2e76f88e3b68c52f31,1,4,False,True,,G04_T03,train
+src_0090,5,Wytop I x500 12mm-1.jpg,5\Wytop I x500 12mm-1.jpg,2560,1920,RGB,3,12,500,1b7ff5a2de2f3d5355029b9a599965d3e07fbd87b7ad61b045615dc078b43607,1,5,False,True,,G05_T12,test
+src_0091,5,Wytop I x500 12mm-2.jpg,5\Wytop I x500 12mm-2.jpg,2560,1920,RGB,3,12,500,569ae3122d76b51217d6a024db3913e6c1d0abf0fc3ba97520f7d5bc8904dd19,1,5,False,True,,G05_T12,test
+src_0092,5,Wytop I x500 12mm-3.jpg,5\Wytop I x500 12mm-3.jpg,2560,1920,RGB,3,12,500,c40b8f784fa50e78cfdf40e8027f492171fc5b49fd233c146a42830d36c573c9,1,5,False,True,,G05_T12,test
+src_0093,5,Wytop I x500 12mm-4.jpg,5\Wytop I x500 12mm-4.jpg,2560,1920,RGB,3,12,500,01268f210cb6f95ca0462d6666c09e5543cf5ded9589dba95f19cd38709ea38b,1,5,False,True,,G05_T12,test
+src_0094,5,Wytop I x500 12mm-5.jpg,5\Wytop I x500 12mm-5.jpg,2560,1920,RGB,3,12,500,03d3503c40bd1ca367f4f303bc3f2722ee461a5a8e9deff886eb29ffb88c10a0,1,5,False,True,,G05_T12,test
+src_0095,5,Wytop I x500 24mm-1.jpg,5\Wytop I x500 24mm-1.jpg,2560,1920,RGB,3,24,500,ec49ec911d2555bf3f388353c5a713be923c9f8277fea4c2f7c2115146dd3c19,1,5,False,True,,G05_T24,train
+src_0096,5,Wytop I x500 24mm-2.jpg,5\Wytop I x500 24mm-2.jpg,2560,1920,RGB,3,24,500,14b439eda33e7127ea408158478b4a852653c5bb166d1c3cc5dc6a74046e20b6,1,5,False,True,,G05_T24,train
+src_0097,5,Wytop I x500 24mm-3.jpg,5\Wytop I x500 24mm-3.jpg,2560,1920,RGB,3,24,500,d983c7561c4f8aa16289ac90ab3b0d812ac12535790e9f009271e6dc8a6ffeba,1,5,False,True,,G05_T24,train
+src_0098,5,Wytop I x500 24mm-4.jpg,5\Wytop I x500 24mm-4.jpg,2560,1920,RGB,3,24,500,ff4dac72823c5bbfe89b07320c8fd7032d22979ceacc5f2ab6cf433a7d567da6,1,5,False,True,,G05_T24,train
+src_0099,5,Wytop I x500 24mm-5.jpg,5\Wytop I x500 24mm-5.jpg,2560,1920,RGB,3,24,500,df5bd7ee11ba009d4f7ed9cec688cc7c498ef5dd3b6487bb3ec8d095ea63c6ab,1,5,False,True,,G05_T24,train
+src_0100,5,Wytop I x500 24mm-6.jpg,5\Wytop I x500 24mm-6.jpg,2560,1920,RGB,3,24,500,c2b3c84bbab3a68ee822a91a301df349725e26537486cff8d44b2a2ed9b87dae,1,5,False,True,,G05_T24,train
+src_0101,5,Wytop I x500 24mm-7.jpg,5\Wytop I x500 24mm-7.jpg,2560,1920,RGB,3,24,500,ff2899705b71327405ec3bd02598234350ff23143dac7ef124c8fa8cb8bd99b0,1,5,False,True,,G05_T24,train
+src_0102,5,Wytop I x500 3mm-1.jpg,5\Wytop I x500 3mm-1.jpg,2560,1920,RGB,3,3,500,368bd0862f3ea58e0b82a1ae1175a03c76c57a70e99bc29ffd38f3009b6d81e3,1,5,False,True,,G05_T03,train
+src_0103,5,Wytop I x500 3mm-2.jpg,5\Wytop I x500 3mm-2.jpg,2560,1920,RGB,3,3,500,adc93e305f9a6e6dd887b7727a5cabd6e790855786ecb60036773dd39d4ff616,1,5,False,True,,G05_T03,train
+src_0104,5,Wytop I x500 3mm-3.jpg,5\Wytop I x500 3mm-3.jpg,2560,1920,RGB,3,3,500,f13f4e0a08d2cb385d3b50d5ac1961d1b7cf67ccb5858fcc08e16a59bec2cb28,1,5,False,True,,G05_T03,train
+src_0105,5,Wytop I x500 3mm-4.jpg,5\Wytop I x500 3mm-4.jpg,2560,1920,RGB,3,3,500,5c48b224281d09042630e30cc4eacb3c6242f53f90af806f2654c9fd09725124,1,5,False,True,,G05_T03,train
+src_0106,5,Wytop I x500 3mm-5.jpg,5\Wytop I x500 3mm-5.jpg,2560,1920,RGB,3,3,500,76545cb662645af4dfe30e866f5fdc055ea52b3a96c8a3569c9ea941c700904f,1,5,False,True,,G05_T03,train
+src_0107,5,Wytop I x500 3mm-6.jpg,5\Wytop I x500 3mm-6.jpg,2560,1920,RGB,3,3,500,3e03e8a2fe46da1558fd025a5486360b4138d66819518533eb0c7053cf954fcb,1,5,False,True,,G05_T03,train
+src_0108,5,Wytop I x500 3mm-7.jpg,5\Wytop I x500 3mm-7.jpg,2560,1920,RGB,3,3,500,96956552230dc399185a2adcd70f3a9cac95ad4759b9e618df54d3ef709338e9,1,5,False,True,,G05_T03,train
+src_0109,5,Wytop I x500 6mm-1.jpg,5\Wytop I x500 6mm-1.jpg,2560,1920,RGB,3,6,500,58f8b018a020eecdefca6f493b436bb2aaa91376f9c2b9d3ce40a1e5c1024b5f,1,5,False,True,,G05_T06,train
+src_0110,5,Wytop I x500 6mm-2.jpg,5\Wytop I x500 6mm-2.jpg,2560,1920,RGB,3,6,500,13a36006cc1f44ad76fbba27bc9b03d8dee7a19e190178a9141296df1050e691,1,5,False,True,,G05_T06,train
+src_0111,5,Wytop I x500 6mm-3.jpg,5\Wytop I x500 6mm-3.jpg,2560,1920,RGB,3,6,500,9095ffa0d38a38bc1bbfc5fa1781d7dcbbce660b554f59a4b7cb7ced0ce561db,1,5,False,True,,G05_T06,train
+src_0112,5,Wytop I x500 6mm-4.jpg,5\Wytop I x500 6mm-4.jpg,2560,1920,RGB,3,6,500,e1faba37f86f8ba7f1411be064760196fc7081a99f15e95338223c63682945ea,1,5,False,True,,G05_T06,train
+src_0113,5,Wytop I x500 6mm-5.jpg,5\Wytop I x500 6mm-5.jpg,2560,1920,RGB,3,6,500,68a5fb2ebe143b81bb4e9f05481bb5b101151f941f52daa74faf756ca6ee9b6a,1,5,False,True,,G05_T06,train
+src_0114,6,Wytop II x500 3mm-1.jpg,6\Wytop II x500 3mm-1.jpg,2560,1920,RGB,3,3,500,feed3dad987c8e6829baecc07eb38285fdaea06a232f937ca7e50a3fcc6a7b78,1,6,False,True,,G06_T03,test
+src_0115,6,Wytop II x500 3mm-2.jpg,6\Wytop II x500 3mm-2.jpg,2560,1920,RGB,3,3,500,2079e5ce022ceeb8f0fd678956aa4613edcbc894c5439273af9c460616568415,1,6,False,True,,G06_T03,test
+src_0116,6,Wytop II x500 3mm-3.jpg,6\Wytop II x500 3mm-3.jpg,2560,1920,RGB,3,3,500,b0a465a9b96539c545d3fb2a439e9f4576ae53206f94485438d09f4b8e42c4fb,1,6,False,True,,G06_T03,test
+src_0117,6,Wytop II x500 3mm-4.jpg,6\Wytop II x500 3mm-4.jpg,2560,1920,RGB,3,3,500,3bb95f687b3c631b2d2a48f4c1baecc761160308d90fa4dea8938937ca65e16c,1,6,False,True,,G06_T03,test
+src_0118,6,Wytop II x500 3mm-5.jpg,6\Wytop II x500 3mm-5.jpg,2560,1920,RGB,3,3,500,fe9754212551cb176f21044e7fc72e3923c862e9b58f2d191d43a89515d6d5b4,1,6,False,True,,G06_T03,test
+src_0119,6,Wytop II x500 6mm-1.jpg,6\Wytop II x500 6mm-1.jpg,2560,1920,RGB,3,6,500,ec51bde055d8da8db9ba72b795d2ebb414bc597063f82c5ff91eb5990c9eaa37,1,6,False,True,,G06_T06,train
+src_0120,6,Wytop II x500 6mm-2.jpg,6\Wytop II x500 6mm-2.jpg,2560,1920,RGB,3,6,500,5837ed2201f8ab4cfbd35d76ccd8b888887fc06df38dc6dfafd96dfdc1fc9ee8,1,6,False,True,,G06_T06,train
+src_0121,6,Wytop II x500 6mm-3.jpg,6\Wytop II x500 6mm-3.jpg,2560,1920,RGB,3,6,500,fcf31a6363d46b00649c07ae305c4b2ff5e05905e2017326626b2af160c81986,1,6,False,True,,G06_T06,train
+src_0122,6,Wytop II x500 6mm-4.jpg,6\Wytop II x500 6mm-4.jpg,2560,1920,RGB,3,6,500,6298169a22f5c85b665f3513e94a8703a8b1e588a0213d29c99dc20291a4a203,1,6,False,True,,G06_T06,train
+src_0123,6,Wytop II x500 6mm-5.jpg,6\Wytop II x500 6mm-5.jpg,2560,1920,RGB,3,6,500,5df2a41ce1e9bc43e1040c60888dfd2f9fd5f4206524a50582f30724e0402e5f,1,6,False,True,,G06_T06,train
+src_0124,6,Wytop IIx500 12mm-1.jpg,6\Wytop IIx500 12mm-1.jpg,2560,1920,RGB,3,12,500,92b1dcf9f6a8d65d9dd37bb3bd1e3fb45eedde3319ad0fe9deb3a8e7079575be,1,6,False,True,,G06_T12,validation
+src_0125,6,Wytop IIx500 12mm-2.jpg,6\Wytop IIx500 12mm-2.jpg,2560,1920,RGB,3,12,500,6e9c9ca1ccc06b629d79bd68cb61fc97da30d1a2561f1ea481c72384087ea95f,1,6,False,True,,G06_T12,validation
+src_0126,6,Wytop IIx500 12mm-3.jpg,6\Wytop IIx500 12mm-3.jpg,2560,1920,RGB,3,12,500,37960247c0b7c76398017ede9ea30d10f7c9ec52e2f86f9a98c0df2bcccf0bde,1,6,False,True,,G06_T12,validation
+src_0127,6,Wytop IIx500 12mm-4.jpg,6\Wytop IIx500 12mm-4.jpg,2560,1920,RGB,3,12,500,bd04014920da630a20477861c392429a3f02de142d7d7abae481a20644890a92,1,6,False,True,,G06_T12,validation
+src_0128,6,Wytop IIx500 12mm-5.jpg,6\Wytop IIx500 12mm-5.jpg,2560,1920,RGB,3,12,500,f85d99453c3f7a79cb3a156d796475d0fd815c74df266ebfcd4343fead96bf69,1,6,False,True,,G06_T12,validation
+src_0129,6,Wytop IIx500 12mm-6.jpg,6\Wytop IIx500 12mm-6.jpg,2560,1920,RGB,3,12,500,1a280f7203a890bd689260a3afad7534daff6ae4877cc95af7059479dfdfe299,1,6,False,True,,G06_T12,validation
+src_0130,6,Wytop IIx500 24mm-1.jpg,6\Wytop IIx500 24mm-1.jpg,2560,1920,RGB,3,24,500,6f7336fe43116c59ae9f3bd4afc6402fe57fa489abd54eff86d949ac7e50a381,1,6,False,True,,G06_T24,train
+src_0131,6,Wytop IIx500 24mm-2.jpg,6\Wytop IIx500 24mm-2.jpg,2560,1920,RGB,3,24,500,da0cf48f4ab59f1de3698f329f842e5fffb3aa207d9cd50fc9992288383fc60f,1,6,False,True,,G06_T24,train
+src_0132,6,Wytop IIx500 24mm-3.jpg,6\Wytop IIx500 24mm-3.jpg,2560,1920,RGB,3,24,500,70320def42f2a976e0c4e641498acbf3732082ca5faaf7257d585331a4a66f78,1,6,False,True,,G06_T24,train
+src_0133,6,Wytop IIx500 24mm-4.jpg,6\Wytop IIx500 24mm-4.jpg,2560,1920,RGB,3,24,500,c1149e14a5082bbffb8a8f46e1c10c5dae2116fa81f82133dcc2078bd0d4e3b5,1,6,False,True,,G06_T24,train
+src_0134,6,Wytop IIx500 24mm-5.jpg,6\Wytop IIx500 24mm-5.jpg,2560,1920,RGB,3,24,500,c88ae7626622adec4f559be79820e2a44d5c7ea9b91c42c8a86ec3f891aae34b,1,6,False,True,,G06_T24,train
+src_0135,7,Wytop II x500 12 mm-1.jpg,7\Wytop II x500 12 mm-1.jpg,2560,1920,RGB,3,12,500,55d672cb6dab1455fab978f542a0424ed95f4f4fda654ffd809c8aa8476bf77c,1,7,False,True,,G07_T12,validation
+src_0136,7,Wytop II x500 12 mm-4.jpg,7\Wytop II x500 12 mm-4.jpg,2560,1920,RGB,3,12,500,5be1c7cc014d3662af5ca90644a0e2aacd3827299a3cd9654012b30e322efe77,1,7,False,True,,G07_T12,validation
+src_0137,7,Wytop II x500 12mm-2.jpg,7\Wytop II x500 12mm-2.jpg,2560,1920,RGB,3,12,500,1209e82310467585c95149e01f46f42e44b7dd934c71202cb2cc93c8908f8098,1,7,False,True,,G07_T12,validation
+src_0138,7,Wytop II x500 12mm-3.jpg,7\Wytop II x500 12mm-3.jpg,2560,1920,RGB,3,12,500,ce7f46a724265c4971c62afe36c22c67f0f651cafa36f3345c0769b0145f5676,1,7,False,True,,G07_T12,validation
+src_0139,7,Wytop II x500 12mm-5.jpg,7\Wytop II x500 12mm-5.jpg,2560,1920,RGB,3,12,500,fe0332cb35a7d51df398ff4ab66962c199fdd70e3303492e95ac7436ca459992,1,7,False,True,,G07_T12,validation
+src_0145,7,Wytop II x500 24mm-6.jpg,7\Wytop II x500 24mm-6.jpg,2560,1920,RGB,3,24,500,0663618b933de8b1e544571ca08d861247211d314bb1c981e6c831e9c2b84b78,1,7,False,True,,G07_T24,train
+src_0146,7,Wytop II x500 3mm-1.jpg,7\Wytop II x500 3mm-1.jpg,2560,1920,RGB,3,3,500,69dced776ca8e178dd9e3f50324272a4c624c1cbe6e83aa31290127cb0645791,1,7,False,True,,G07_T03,train
+src_0147,7,Wytop II x500 3mm-2.jpg,7\Wytop II x500 3mm-2.jpg,2560,1920,RGB,3,3,500,72b9ac643ceb2169a33a5ce9ca5ed3a2ca12612c75ed5e3e2dbb7b8353eb2453,1,7,False,True,,G07_T03,train
+src_0148,7,Wytop II x500 3mm-3.jpg,7\Wytop II x500 3mm-3.jpg,2560,1920,RGB,3,3,500,07482ec379f40006a157cc5578e14f1c78381b552afe764eb2f8ba1a94830620,1,7,False,True,,G07_T03,train
+src_0149,7,Wytop II x500 3mm-4.jpg,7\Wytop II x500 3mm-4.jpg,2560,1920,RGB,3,3,500,52f16f87223be0b5ab47800455734f17c983450cb569b7b50b3acb06f4abcbe9,1,7,False,True,,G07_T03,train
+src_0150,7,Wytop II x500 6mm-1.jpg,7\Wytop II x500 6mm-1.jpg,2560,1920,RGB,3,6,500,978b8fc735565eac53331b039ccea6034b11b04ead63aa758936e1371f79cc1e,1,7,False,True,,G07_T06,train
+src_0151,8,Wytop II 12mm x500 - 1.jpg,8\Wytop II 12mm x500 - 1.jpg,2560,1920,RGB,3,12,500,7dd7ea1490cf4d248295c125c2d493fb95ba7761829012bd3cec1d868bb5e579,1,8,False,True,,G08_T12,train
+src_0152,8,Wytop II 12mm x500 - 2.jpg,8\Wytop II 12mm x500 - 2.jpg,2560,1920,RGB,3,12,500,1f8c641c7b0e94b9af8802dc451ba01d94610543bcb4ad4c16642335a61e5dd1,1,8,False,True,,G08_T12,train
+src_0154,8,Wytop II 12mm x500 - 4.jpg,8\Wytop II 12mm x500 - 4.jpg,2560,1920,RGB,3,12,500,dab1ffe801ce31484bc07fcdff1e260030b08c9de491f10d7e40e4aad6ac8f1e,1,8,False,True,,G08_T12,train
+src_0155,8,Wytop II 24mm x500 - 1.jpg,8\Wytop II 24mm x500 - 1.jpg,2560,1920,RGB,3,24,500,5fc2fea23c568b85adc353baa1f7dc03fe41d2d1a6bb8e2478f2ec9d5ef8df43,1,8,False,True,,G08_T24,train
+src_0156,8,Wytop II 24mm x500 - 2.jpg,8\Wytop II 24mm x500 - 2.jpg,2560,1920,RGB,3,24,500,3247970e2274b8025bf1a3eb50220ed54eecdb6f6127ccd52514eb49348366c1,1,8,False,True,,G08_T24,train
+src_0158,8,Wytop II 24mm x500 - 4.jpg,8\Wytop II 24mm x500 - 4.jpg,2560,1920,RGB,3,24,500,b138ee2940e526c48641980b11021ee03ac5f7b12237bbbd5a286e16515ce791,1,8,False,True,,G08_T24,train
+src_0159,8,Wytop II 24mm x500 - 5.jpg,8\Wytop II 24mm x500 - 5.jpg,2560,1920,RGB,3,24,500,d0f083ebeac64460a3ae4f7a99365a882e4e1b324c5c18352ce8ed7b28e1bedd,1,8,False,True,,G08_T24,train
+src_0160,8,Wytop II 3mm x500 - 1.jpg,8\Wytop II 3mm x500 - 1.jpg,2560,1920,RGB,3,3,500,02059eeaa5ee234be47b80d5ca31206daecb3c6d31f175db919bee5cf656d036,1,8,False,True,,G08_T03,validation
+src_0161,8,Wytop II 3mm x500 - 2.jpg,8\Wytop II 3mm x500 - 2.jpg,2560,1920,RGB,3,3,500,5d4663b731af84f1d388a8749cda2d26d680c5aecf5e1917ff81637c21796b7c,1,8,False,True,,G08_T03,validation
+src_0162,8,Wytop II 3mm x500 - 3.jpg,8\Wytop II 3mm x500 - 3.jpg,2560,1920,RGB,3,3,500,2aaf0e8d57674fe90fcb095f026f3f11e315398d87b797ec78fd30fbb24b3308,1,8,False,True,,G08_T03,validation
+src_0163,8,Wytop II 6mm x500 - 1.jpg,8\Wytop II 6mm x500 - 1.jpg,2560,1920,RGB,3,6,500,ebecc615d750f100f0010ebefe037f7fefd4ffaef656fa793207bf623c25221c,1,8,False,True,,G08_T06,train
+src_0164,8,Wytop II 6mm x500 - 2.jpg,8\Wytop II 6mm x500 - 2.jpg,2560,1920,RGB,3,6,500,fb5937c508d39b81af0cca9a6750075bf79871b4f7c5737ceede2f96e287db53,1,8,False,True,,G08_T06,train
+src_0165,8,Wytop II 6mm x500 - 3.jpg,8\Wytop II 6mm x500 - 3.jpg,2560,1920,RGB,3,6,500,ce355a363a6b14ff8859c9c430dac208746e7ad17333c8b70dc5bdce8fdcfe58,1,8,False,True,,G08_T06,train
+src_0166,8,Wytop II 6mm x500 - 4.jpg,8\Wytop II 6mm x500 - 4.jpg,2560,1920,RGB,3,6,500,f826867e1095c27c93f17cc48598e42e532b1a167b74380319c0126d2ba3ea6b,1,8,False,True,,G08_T06,train
+src_0167,8,Wytop II 6mm x500 - 5.jpg,8\Wytop II 6mm x500 - 5.jpg,2560,1920,RGB,3,6,500,48bcc20201865a83676d08b5f4ab46bd9b98a603d5c8418ef80a6105f5785f03,1,8,False,True,,G08_T06,train
+src_0168,9,Wytop II - 12mm - x500 - 1.jpg,9\Wytop II - 12mm - x500 - 1.jpg,2560,1920,RGB,3,12,500,f7d3af6a80e962a7edf5ec45f3024d162319b6fc6d5f4dc4a6fcff9b3187c47b,1,9,False,True,,G09_T12,train
+src_0169,9,Wytop II - 12mm - x500 - 2.jpg,9\Wytop II - 12mm - x500 - 2.jpg,2560,1920,RGB,3,12,500,b6037742b8abc0f07d20c179fa4f27428d3af2214b3d0f4490b1462c09d1cc0a,1,9,False,True,,G09_T12,train
+src_0170,9,Wytop II - 12mm - x500 - 3.jpg,9\Wytop II - 12mm - x500 - 3.jpg,2560,1920,RGB,3,12,500,ea3227473d2e7fa43a0a8cfb3b5e78c3e0564086ac1e0afc3c490457284e01f4,1,9,False,True,,G09_T12,train
+src_0171,9,Wytop II - 12mm - x500 - 4.jpg,9\Wytop II - 12mm - x500 - 4.jpg,2560,1920,RGB,3,12,500,155fdf16c9d39e23f8184e9329cce57d0952f45e5fa68b1b13d4e731efeb6576,1,9,False,True,,G09_T12,train
+src_0172,9,Wytop II - 12mm - x500 - 5.jpg,9\Wytop II - 12mm - x500 - 5.jpg,2560,1920,RGB,3,12,500,cd38c47459a73181f97d3d412dd0129ddce5559eeca0b1d538a82331d424d6b3,1,9,False,True,,G09_T12,train
+src_0173,9,Wytop II - 12mm - x500 - 6.jpg,9\Wytop II - 12mm - x500 - 6.jpg,2560,1920,RGB,3,12,500,7eb3a76dee9c4a2edcf9eea491d06eb7a8cc01ba184873a4689f539e0c895c41,1,9,False,True,,G09_T12,train
+src_0174,9,Wytop II - 12mm - x500 - 7.jpg,9\Wytop II - 12mm - x500 - 7.jpg,2560,1920,RGB,3,12,500,ff838b88be8dfaa4b61b930504ca02c18fe1b711cc308509e2a1a75380307d67,1,9,False,True,,G09_T12,train
+src_0175,9,Wytop II - 12mm - x500 - 8.jpg,9\Wytop II - 12mm - x500 - 8.jpg,2560,1920,RGB,3,12,500,8a0a5557d819785c1111ab34d6bed6c7680205fea09b9cb88f06c04d5409015b,1,9,False,True,,G09_T12,train
+src_0176,9,Wytop II - 24mm - x500 - 1.jpg,9\Wytop II - 24mm - x500 - 1.jpg,2560,1920,RGB,3,24,500,6788c9821a82a1883fd44afbabbd5ae0084758392053ce7f24e5e5641846abce,1,9,False,True,,G09_T24,train
+src_0177,9,Wytop II - 24mm - x500 - 2.jpg,9\Wytop II - 24mm - x500 - 2.jpg,2560,1920,RGB,3,24,500,96d7a96ef5c1cab21008240019ce66f25cf62c2942b9a471a69887c0275391da,1,9,False,True,,G09_T24,train
+src_0178,9,Wytop II - 24mm - x500 - 3.jpg,9\Wytop II - 24mm - x500 - 3.jpg,2560,1920,RGB,3,24,500,859a245f7617da2e90f4328ed394839ed5d718bb47778dd55b9cb5d0f7b9c02a,1,9,False,True,,G09_T24,train
+src_0179,9,Wytop II - 24mm - x500 - 4.jpg,9\Wytop II - 24mm - x500 - 4.jpg,2560,1920,RGB,3,24,500,f8df6ee7be0bcc587a6ba48ee55422fa84ea232fddc46ca6bc8e9855d46aab17,1,9,False,True,,G09_T24,train
+src_0180,9,Wytop II - 24mm - x500 - 5.jpg,9\Wytop II - 24mm - x500 - 5.jpg,2560,1920,RGB,3,24,500,742e2b5093f162ed7c91b801ccc127a4e54d8cfc25b78a062cac988cc2221e77,1,9,False,True,,G09_T24,train
+src_0181,9,Wytop II - 24mm - x500 - 6.jpg,9\Wytop II - 24mm - x500 - 6.jpg,2560,1920,RGB,3,24,500,a00b9b4547f486d201f6dd3a45cb353a93926985bf7e2d0926b09323d81b53a2,1,9,False,True,,G09_T24,train
+src_0182,9,Wytop II - 24mm - x500 - 7.jpg,9\Wytop II - 24mm - x500 - 7.jpg,2560,1920,RGB,3,24,500,84321420378123811f6bf7469e5cce916cd765c7c45c9c76da2b64f7e3f7f8ca,1,9,False,True,,G09_T24,train
+src_0183,9,Wytop II - 24mm - x500 - 8.jpg,9\Wytop II - 24mm - x500 - 8.jpg,2560,1920,RGB,3,24,500,7eacdfbb8c0cd2d60225f3c4fee511809c54b6da6727072722109cbce125e6dd,1,9,False,True,,G09_T24,train
+src_0184,9,Wytop II - 3mm - x500 - 1.jpg,9\Wytop II - 3mm - x500 - 1.jpg,2560,1920,RGB,3,3,500,03017850dc556b5794bb4d8ed7dfc9c02cd6cf3f839ddbb426314f1e429cfe1e,1,9,False,True,,G09_T03,train
+src_0185,9,Wytop II - 3mm - x500 - 2.jpg,9\Wytop II - 3mm - x500 - 2.jpg,2560,1920,RGB,3,3,500,a7cc7de084ec63683a93195b85ded28f6da4b304c30abefbcc48f0c54684de7c,1,9,False,True,,G09_T03,train
+src_0186,9,Wytop II - 3mm - x500 - 3.jpg,9\Wytop II - 3mm - x500 - 3.jpg,2560,1920,RGB,3,3,500,a2d4af782b91f5288d1318a8b7ec8dde13c88f6b30500939062ec1170339c216,1,9,False,True,,G09_T03,train
+src_0187,9,Wytop II - 3mm - x500 - 4.jpg,9\Wytop II - 3mm - x500 - 4.jpg,2560,1920,RGB,3,3,500,f65f0f04f54af21e73c5b52b44d7d614fbec0b5a8345770829d3c092ba59a2a6,1,9,False,True,,G09_T03,train
+src_0188,9,Wytop II - 3mm - x500 - 5.jpg,9\Wytop II - 3mm - x500 - 5.jpg,2560,1920,RGB,3,3,500,2ef1e5fd6625b38afdd645e83caaaa72acb2fb2ce1392b36ead169c942714c8b,1,9,False,True,,G09_T03,train
+src_0189,9,Wytop II - 3mm - x500 - 6.jpg,9\Wytop II - 3mm - x500 - 6.jpg,2560,1920,RGB,3,3,500,ff9952ad115f84269d3fc000c41ea51a71cfe53942f96e139e361e679b60d85f,1,9,False,True,,G09_T03,train
+src_0190,9,Wytop II - 6mm - x500 - 1.jpg,9\Wytop II - 6mm - x500 - 1.jpg,2560,1920,RGB,3,6,500,c68ccc0da51351e99c70c1129a84dee558a8bcda96f5f30ddaf1517cc9b37f51,1,9,False,True,,G09_T06,train
+src_0191,9,Wytop II - 6mm - x500 - 2.jpg,9\Wytop II - 6mm - x500 - 2.jpg,2560,1920,RGB,3,6,500,3318c7ac1f301300b76a82052db24328118b1461eef25276aedb4859778f5af5,1,9,False,True,,G09_T06,train
+src_0192,9,Wytop II - 6mm - x500 - 3.jpg,9\Wytop II - 6mm - x500 - 3.jpg,2560,1920,RGB,3,6,500,eacd3360b4b9e50ae479f524bb1a10df3dcde1b87a331299265aecee57640c78,1,9,False,True,,G09_T06,train
+src_0193,9,Wytop II - 6mm - x500 - 4.jpg,9\Wytop II - 6mm - x500 - 4.jpg,2560,1920,RGB,3,6,500,a5c5d7e2dc8a5edef0c0e4744f075619ec6d0697c5f64b48289482573cfd33ce,1,9,False,True,,G09_T06,train
+src_0194,9,Wytop II - 6mm - x500 - 5.jpg,9\Wytop II - 6mm - x500 - 5.jpg,2560,1920,RGB,3,6,500,6d31ec2029dee000bb7701934bfc1f84f1e91b70cbc5cf8aaeeb02a7af3415bc,1,9,False,True,,G09_T06,train
+src_0195,9,Wytop II - 6mm - x500 - 6.jpg,9\Wytop II - 6mm - x500 - 6.jpg,2560,1920,RGB,3,6,500,3029c4a9305cad355c13c48dfa862ce077c90c4d887888fd621e71713b5f233a,1,9,False,True,,G09_T06,train
+src_0196,10,12mm x500 - 1.jpg,10\12mm x500 - 1.jpg,2560,1920,RGB,3,12,500,d94881b5cc6c79a642b48010d519618b74ac2700d154aea0ae0c27d16780d9c7,1,10,False,True,,G10_T12,train
+src_0197,10,12mm x500 - 10.jpg,10\12mm x500 - 10.jpg,2560,1920,RGB,3,12,500,b791fde0f5e79babb31be91e5e89504e5426d99c47cd6d8fd00ac7f9780a5bf9,1,10,False,True,,G10_T12,train
+src_0198,10,12mm x500 - 11.jpg,10\12mm x500 - 11.jpg,2560,1920,RGB,3,12,500,6e7e8e82ae4d11b2482bf9235e5c06cd67b98f09918b4b3811d786f95d58fc22,1,10,False,True,,G10_T12,train
+src_0199,10,12mm x500 - 2.jpg,10\12mm x500 - 2.jpg,2560,1920,RGB,3,12,500,3d818ad93d0cdd91016f8cd4f99886a6a728cb9495666118db5996757e96ebe1,1,10,False,True,,G10_T12,train
+src_0200,10,12mm x500 - 3.jpg,10\12mm x500 - 3.jpg,2560,1920,RGB,3,12,500,c521712798ee6d9d7553cea3ecf2b9595681b73192731a32c5578a1fbe645c29,1,10,False,True,,G10_T12,train
+src_0201,10,12mm x500 - 4.jpg,10\12mm x500 - 4.jpg,2560,1920,RGB,3,12,500,e334d323520c8cb50be5e9f9340e5adc3f9ae736f677975dc88940028f7827ee,1,10,False,True,,G10_T12,train
+src_0202,10,12mm x500 - 5.jpg,10\12mm x500 - 5.jpg,2560,1920,RGB,3,12,500,9bfc14e837dc0065a4e1e6a87881185efe9365aaecfc7f1651a1b928ea20d59d,1,10,False,True,,G10_T12,train
+src_0203,10,12mm x500 - 6.jpg,10\12mm x500 - 6.jpg,2560,1920,RGB,3,12,500,e93ed8635bfae857789f9c221355423b9a9146a7af1fd1c3fad785ce2b9ab5fa,1,10,False,True,,G10_T12,train
+src_0204,10,12mm x500 - 7.jpg,10\12mm x500 - 7.jpg,2560,1920,RGB,3,12,500,dea5ed6c2bee0b765590930b28d49283b95188d59e74e0afbcc39f1602e3796f,1,10,False,True,,G10_T12,train
+src_0205,10,12mm x500 - 8.jpg,10\12mm x500 - 8.jpg,2560,1920,RGB,3,12,500,648e1aae4c345ba8f1326854fd9722031d5060fcb1b3917f061f82119534c195,1,10,False,True,,G10_T12,train
+src_0206,10,12mm x500 - 9.jpg,10\12mm x500 - 9.jpg,2560,1920,RGB,3,12,500,219303c4479bf29e220cd5d6272a179c4cdff1af2d89d404aacfb98dd5147597,1,10,False,True,,G10_T12,train
+src_0208,10,24mm x500 - 1.jpg,10\24mm x500 - 1.jpg,2560,1920,RGB,3,24,500,b364da316064808272b0fc09de5c3e80405266eb2a866c1b550b0b07e42195d1,1,10,False,True,,G10_T24,train
+src_0209,10,24mm x500 - 2.jpg,10\24mm x500 - 2.jpg,2560,1920,RGB,3,24,500,0beec8903f4345a6035af9432b4e6a827b2c49d0da5e679a4a84241f1e80279e,1,10,False,True,,G10_T24,train
+src_0210,10,24mm x500 - 3.jpg,10\24mm x500 - 3.jpg,2560,1920,RGB,3,24,500,fac0b046f2ab56ee3f1f52cdccecd2dfef177e1fc0bbe5cca548bd490079b208,1,10,False,True,,G10_T24,train
+src_0211,10,3mm x500 - 1.jpg,10\3mm x500 - 1.jpg,2560,1920,RGB,3,3,500,de9c316014cae1c50589ca7d90e1612a1e843b7815a45964937825ae0eabd5c8,1,10,False,True,,G10_T03,validation
+src_0212,10,3mm x500 - 2.jpg,10\3mm x500 - 2.jpg,2560,1920,RGB,3,3,500,ed6fef92609fbf4cf732c4db6c67a1112ca08a66f35ba0da67900e6b8b4380f8,1,10,False,True,,G10_T03,validation
+src_0213,10,3mm x500 - 3.jpg,10\3mm x500 - 3.jpg,2560,1920,RGB,3,3,500,3779fc9c665387f2b4d1c9832999b2e4ac9e05ea91375d4c42ee77d14e759c76,1,10,False,True,,G10_T03,validation
+src_0214,10,3mm x500 - 4.jpg,10\3mm x500 - 4.jpg,2560,1920,RGB,3,3,500,d4fa82b780f7f1b741918812aa9c42b6e487a3b6e34e6fcedd09da31cbf8131e,1,10,False,True,,G10_T03,validation
+src_0215,10,3mm x500 - 5.jpg,10\3mm x500 - 5.jpg,2560,1920,RGB,3,3,500,a2a740a9eb48702fb580ce096bbb135986f4bb876ef67783ed01f74592cc4cb1,1,10,False,True,,G10_T03,validation
+src_0216,10,6mm x500 - 1.jpg,10\6mm x500 - 1.jpg,2560,1920,RGB,3,6,500,3bbc0dfa782e7b0a9cd9e902e5721fd0a04da5b28f36de449d907beb7ebfef0b,1,10,False,True,,G10_T06,test
+src_0217,10,6mm x500 - 2.jpg,10\6mm x500 - 2.jpg,2560,1920,RGB,3,6,500,b5ccdf9c66f1f5a4911f4f81592756d2355eb1c02f77b0494226bccea84055ba,1,10,False,True,,G10_T06,test
+src_0218,10,6mm x500 - 3.jpg,10\6mm x500 - 3.jpg,2560,1920,RGB,3,6,500,24a0444495a01d1113ba0bea1212188f3a45010df5424f1980764dab534226b2,1,10,False,True,,G10_T06,test
+src_0219,10,6mm x500 - 4.jpg,10\6mm x500 - 4.jpg,2560,1920,RGB,3,6,500,d0ff8cdb9a47accaaa82d31590398c68b1eae7921d817a6672c51fb9e99cd170,1,10,False,True,,G10_T06,test
+src_0220,10,6mm x500 - 5.jpg,10\6mm x500 - 5.jpg,2560,1920,RGB,3,6,500,5905e96154ad4f3c64a4d11d996eebe072d59b10f78114a64fdf91def34bc5a1,1,10,False,True,,G10_T06,test
+src_0221,10,6mm x500 - 6.jpg,10\6mm x500 - 6.jpg,2560,1920,RGB,3,6,500,0d866e194e2af56b9f7ad3e05d4059a1877770f3a46839e5931152fabf7b8061,1,10,False,True,,G10_T06,test
+src_0222,10,6mm x500 - 7.jpg,10\6mm x500 - 7.jpg,2560,1920,RGB,3,6,500,6885f07e7dfcf874a07b148fbac645b3cb5cfecce025c82353752571ddc89a5a,1,10,False,True,,G10_T06,test
+src_0223,10,6mm x500 - 8.jpg,10\6mm x500 - 8.jpg,2560,1920,RGB,3,6,500,615affa887a9aa496543577ace8ff2e0cff085e329d0feced1c27423db8c0d6f,1,10,False,True,,G10_T06,test
+src_0224,11,Wytop I 12mm x500 - 1.jpg,11\Wytop I 12mm x500 - 1.jpg,2560,1920,RGB,3,12,500,52cc9decccadf0555d3db1b1e1211312d34e43d1b9132d91d22fc507d802280c,1,11,False,True,,G11_T12,train
+src_0225,11,Wytop I 12mm x500 - 2.jpg,11\Wytop I 12mm x500 - 2.jpg,2560,1920,RGB,3,12,500,d20c4afd024ce26bb3e2ca9369590cbd2836a0f850a263c96e54a07aa8d47ab2,1,11,False,True,,G11_T12,train
+src_0226,11,Wytop I 12mm x500 - 3.jpg,11\Wytop I 12mm x500 - 3.jpg,2560,1920,RGB,3,12,500,a49ee078e382bd05815e0c5e08f1ccf357baad2ec07ffb78ce38ac0037e1fb63,1,11,False,True,,G11_T12,train
+src_0227,11,Wytop I 12mm x500 - 4.jpg,11\Wytop I 12mm x500 - 4.jpg,2560,1920,RGB,3,12,500,75d32531d84fa3e5962dda15f1f27ef0bed0dcc43e8d3543896f31c38372891a,1,11,False,True,,G11_T12,train
+src_0228,11,Wytop I 12mm x500 - 5.jpg,11\Wytop I 12mm x500 - 5.jpg,2560,1920,RGB,3,12,500,4de14bd2bcc75d07e400e6d07cf45862c47104b565e33d8851d52f17369a427e,1,11,False,True,,G11_T12,train
+src_0229,11,Wytop I 12mm x500 - 6.jpg,11\Wytop I 12mm x500 - 6.jpg,2560,1920,RGB,3,12,500,bd8209689ff09c85565ebd6bdb055e47b30b5a1ffa034461b6aeacc695a8ac32,1,11,False,True,,G11_T12,train
+src_0230,11,Wytop I 12mm x500 - 7.jpg,11\Wytop I 12mm x500 - 7.jpg,2560,1920,RGB,3,12,500,75c851f6fa2a5d4f4847a4f9bb14ad2060460969332b74f8c61845f52df35bb2,1,11,False,True,,G11_T12,train
+src_0231,11,Wytop I 24mm x500 - 1.jpg,11\Wytop I 24mm x500 - 1.jpg,2560,1920,RGB,3,24,500,423473430f8f4cddf973b58d726671600ad31155ab8b7d378c5f98b3a45a3736,1,11,False,True,,G11_T24,train
+src_0232,11,Wytop I 24mm x500 - 2.jpg,11\Wytop I 24mm x500 - 2.jpg,2560,1920,RGB,3,24,500,86aed3b58d9631196175aeb4b38cca9ec9c1420da31551ceb66e10565c349a7a,1,11,False,True,,G11_T24,train
+src_0233,11,Wytop I 24mm x500 - 3.jpg,11\Wytop I 24mm x500 - 3.jpg,2560,1920,RGB,3,24,500,810870f934999821bd65d00f4a89ed176256eb6dee817b85e6a71d6ae567fc78,1,11,False,True,,G11_T24,train
+src_0234,11,Wytop I 24mm x500 - 4.jpg,11\Wytop I 24mm x500 - 4.jpg,2560,1920,RGB,3,24,500,76f338a861d6768d70e8b4e85ac506f1444ecd31d66885cffd376c0dbfe44e4f,1,11,False,True,,G11_T24,train
+src_0235,11,Wytop I 24mm x500 - 5.jpg,11\Wytop I 24mm x500 - 5.jpg,2560,1920,RGB,3,24,500,1bf8ddfb3e8f592d6d47b56b3ac2669e5aaa2418a36c1d9094e69d86608550e7,1,11,False,True,,G11_T24,train
+src_0236,11,Wytop I 24mm x500 - 6.jpg,11\Wytop I 24mm x500 - 6.jpg,2560,1920,RGB,3,24,500,23b1991ec92546a0aae843baab6fa8532e67663da1d11b431e7720d0cefd738d,1,11,False,True,,G11_T24,train
+src_0237,11,Wytop I 3mm x500 - 1.jpg,11\Wytop I 3mm x500 - 1.jpg,2560,1920,RGB,3,3,500,80af41184c75c6cf235085994aff8b165e06113839d31d6bf32acdb9deccd69e,1,11,False,True,,G11_T03,train
+src_0238,11,Wytop I 3mm x500 - 2.jpg,11\Wytop I 3mm x500 - 2.jpg,2560,1920,RGB,3,3,500,4f9293152844fb90e770b9dbb6dd8e24a5ea6db9fa61c0b5779226cd7f0ec3a0,1,11,False,True,,G11_T03,train
+src_0239,11,Wytop I 3mm x500 - 3.jpg,11\Wytop I 3mm x500 - 3.jpg,2560,1920,RGB,3,3,500,7beb2ed72af07ce65bddbcf0034c5723a34d3fc8f4749c1efc1a674d3878c436,1,11,False,True,,G11_T03,train
+src_0240,11,Wytop I 3mm x500 - 4.jpg,11\Wytop I 3mm x500 - 4.jpg,2560,1920,RGB,3,3,500,a6ca2ac1e8932fec9adacfd29cd41920798f6aa6a67ae0acc3b77d3f6ef88817,1,11,False,True,,G11_T03,train
+src_0241,11,Wytop I 3mm x500 - 5.jpg,11\Wytop I 3mm x500 - 5.jpg,2560,1920,RGB,3,3,500,f12fb05c9bbdc7bfa3e6bf03550ca7ee2c87480b2f72613d0d3474dcb32ed4ca,1,11,False,True,,G11_T03,train
+src_0242,11,Wytop I 3mm x500 - 6.jpg,11\Wytop I 3mm x500 - 6.jpg,2560,1920,RGB,3,3,500,81a8a334fa90b43b93ebc3e66c743ab4e152dbdde95994c0455e9109821346f8,1,11,False,True,,G11_T03,train
+src_0243,11,Wytop I 3mm x500 - 7.jpg,11\Wytop I 3mm x500 - 7.jpg,2560,1920,RGB,3,3,500,7003dd73cd6bbd003103582073b250b1a9fce4d21a167398ec7791db43a8820d,1,11,False,True,,G11_T03,train
+src_0244,11,Wytop I 3mm x500 - 8.jpg,11\Wytop I 3mm x500 - 8.jpg,2560,1920,RGB,3,3,500,a25fe60b62f4a4eb4fd5f5681e7b1200590547ab65440e0a1449cbe7a6148fd5,1,11,False,True,,G11_T03,train
+src_0245,11,Wytop I 3mm x500 - 9.jpg,11\Wytop I 3mm x500 - 9.jpg,2560,1920,RGB,3,3,500,ca124d00a4abb662b469e5587a9b41f3c0c1e4ed6996070ec6ad365e2db8f822,1,11,False,True,,G11_T03,train
+src_0246,11,Wytop I 6mm x500 - 1.jpg,11\Wytop I 6mm x500 - 1.jpg,2560,1920,RGB,3,6,500,2ee1294aacbdfd3e2ca6f44131e7b6882b1fb3877abc5a2eda41101c638fb1ba,1,11,False,True,,G11_T06,validation
+src_0247,11,Wytop I 6mm x500 - 2.jpg,11\Wytop I 6mm x500 - 2.jpg,2560,1920,RGB,3,6,500,0d314707dc7a50152e50ca877197663e6c852674e1aeca1bc65596941b6609fd,1,11,False,True,,G11_T06,validation
+src_0248,11,Wytop I 6mm x500 - 3.jpg,11\Wytop I 6mm x500 - 3.jpg,2560,1920,RGB,3,6,500,7d3bb8d1d754c85670b605865f25652a7295f4a344673658201f9432d586090a,1,11,False,True,,G11_T06,validation
+src_0249,11,Wytop I 6mm x500 - 4.jpg,11\Wytop I 6mm x500 - 4.jpg,2560,1920,RGB,3,6,500,a411826ba643142ffc9b820b314d5a436bab68f80d70dbea1e7ffcbe0ab2b0cd,1,11,False,True,,G11_T06,validation
+src_0250,11,Wytop I 6mm x500 - 5.jpg,11\Wytop I 6mm x500 - 5.jpg,2560,1920,RGB,3,6,500,c5dd650a52e26d36a9980ea3eb44968ad241f3b0ba184c078ff2c5bf326e02db,1,11,False,True,,G11_T06,validation
+src_0251,11,Wytop I 6mm x500 - 6.jpg,11\Wytop I 6mm x500 - 6.jpg,2560,1920,RGB,3,6,500,28d8855ea71babd3232e11ebd90f3093c1b15f8ad6d40d2c61d22756b52711b7,1,11,False,True,,G11_T06,validation
+src_0252,11,Wytop I 6mm x500 - 7.jpg,11\Wytop I 6mm x500 - 7.jpg,2560,1920,RGB,3,6,500,a88a2533ee701d037df27a706f9e970df3ca8ad69041b0192f8bd91285de6234,1,11,False,True,,G11_T06,validation
