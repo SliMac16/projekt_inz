@@ -1,0 +1,41 @@
+{
+    "model": "vit_b_16",
+    "seed": 42,
+    "best_epoch": 3,
+    "best_validation_f1": 0.6923076923076923,
+    "validation": {
+        "accuracy": 0.625,
+        "precision": 0.5869565217391305,
+        "recall": 0.84375,
+        "f1": 0.6923076923076923,
+        "loss": 0.6782951354980469
+    },
+    "test": {
+        "accuracy": 0.5588235294117647,
+        "precision": 0.5434782608695652,
+        "recall": 0.7352941176470589,
+        "f1": 0.625,
+        "loss": 0.6904404584099265,
+        "roc_auc": 0.57439446366782
+    },
+    "confusion_matrix": [
+        [
+            13,
+            21
+        ],
+        [
+            9,
+            25
+        ]
+    ],
+    "train_samples": 306,
+    "validation_samples": 64,
+    "test_samples": 68,
+    "batch_size": 32,
+    "image_size": 224,
+    "head_epochs": 3,
+    "max_finetune_epochs": 20,
+    "head_lr": 0.001,
+    "finetune_lr": 0.0001,
+    "weight_decay": 0.0001
+}
